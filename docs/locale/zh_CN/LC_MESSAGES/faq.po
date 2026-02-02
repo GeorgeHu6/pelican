@@ -491,4 +491,3 @@ msgstr ""
 #~ "contains the relevant template file "
 #~ "(e.g. ``template_name.html``)."
 #~ msgstr "确保对应的模板文件在主题中存在即可（例如 ``template_name.html`` ）。"
-

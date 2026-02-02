@@ -62,4 +62,3 @@ msgstr "最后更新于 %(last_updated)s"
 #: ../../_templates/page.html:207 6b07f3b7330d47a3976e765b14da9ad1
 msgid "On this page"
 msgstr "本页目录"
-
